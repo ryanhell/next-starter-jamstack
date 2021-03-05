@@ -6,7 +6,7 @@ const Home = () => (
     <h1>Portfolio, KSA's and Ideas</h1>
 
     <h3>Ryan Hell, Lancaster Area Tradesman, Engineer</h3>
-
+    <p>Web portfolio is coming. </p>
     <style jsx>{`
       :global(html,body) {
         margin: 0;

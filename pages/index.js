@@ -5,7 +5,7 @@ const Home = () => (
   <div>
     <h1>Portfolio, KSA's and Ideas</h1>
 
-    <h3>Hooray 🎉 - you've ACTUALLY built this with <a href="https://nextjs.org">Next.js</a>!</h3>
+    <h3>Ryan Hell, Lancaster Area Tradesman, Engineer</h3>
 
     <style jsx>{`
       :global(html,body) {

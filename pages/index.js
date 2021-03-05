@@ -1,6 +1,5 @@
 import React from 'react'
 import Head from 'next/head'
-import '../components/styles.scss'
 
 const Home = () => (
   <div>
